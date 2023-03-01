@@ -7,4 +7,4 @@ How to run:
 
 3. run the server through foreman by using `foreman start -f Procfile.dev` or just run `bin/rails s`
 
-4. make a POST request to the [root url]("/) with a JSON body. (Remember, JSON doesn't have a trailing comma after the last key/value pair)
+4. make a POST request to the root url with a JSON body. (Remember, JSON doesn't have a trailing comma after the last key/value pair)
