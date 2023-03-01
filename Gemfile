@@ -50,3 +50,5 @@ end
 gem "rspec-rails", "~> 6.0"
 
 gem "slack-notifier"
+
+gem "certified", "~> 1.0"
